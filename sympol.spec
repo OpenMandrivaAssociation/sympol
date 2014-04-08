@@ -18,7 +18,7 @@ BuildRequires:  boost-devel
 BuildRequires:  cmake
 BuildRequires:  cddlib-devel
 BuildRequires:  eigen3-static
-BuildRequires:  gmp-devel
+BuildRequires:  gmpxx-devel
 BuildRequires:  lrslib-devel
 BuildRequires:  permlib-devel
 
