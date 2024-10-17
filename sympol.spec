@@ -8,7 +8,7 @@ Summary:        Symmetric polyhedra tool
 
 
 License:        GPLv2+
-URL:            http://www.math.uni-rostock.de/~rehn/software/sympol.html
+URL:            https://www.math.uni-rostock.de/~rehn/software/sympol.html
 Source0:        http://www.math.uni-rostock.de/~rehn/software/%{name}-%{version}.tar.gz
 Source1:        http://www.math.uni-rostock.de/~rehn/software/%{name}-manual-0.1.pdf
 Source10:       %{name}.rpmlintrc
